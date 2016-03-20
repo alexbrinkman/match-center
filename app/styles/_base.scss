@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: $background-color2;
+  font-family: 'Open Sans', sans-serif;
+  color: $primary-text-color;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1, h2 {
+  font-size: 2em;
+  margin: .5em 0;
+}
+
+h3 {
+  text-align: left;
+}
+
+small {
+  font-size: .25em;
+}
+
+.teams {
+  background-color: $background-color1;
+  padding: 2em 0;
+}
+
+.score {
+  background-color: $background-color2;
+  font-size: 2em;
+}
+
+.inning {
+  background-color: $background-color1;
+  padding: 1em 0;
+}
+
+.count {
+  background-color: $background-color2;
+  padding: 1em 0;
+}
+
+.box-score {
+  background-color: $background-color1;
+  padding: 1em 0;
+
+  div {
+    margin: 1em 0;
+  }
+}
+
+.box-score-title {
+  display: inline-block;
+  margin: 0 1.5em;
+  color: $secondary-text-color;
+  font-size: .75em;
+}
+
+.box-score-value {
+  display: inline-block;
+  margin: 0 1.5em;
+}
+
+.info {
+  background-color: $background-color2;
+  padding: 2em 0;
+}
+
+.info-left {
+  display: inline-block;
+  width: 40%;
+}
+
+.info-right {
+  display: inline-block;
+  width: 40%;
+}
+
+.bg-color1 {
+  background-color: $background-color1;
+}
+
+.bg-color2 {
+  background-color: $background-color2;
+}
+
+.margin-bottom {
+  margin-bottom: 2em;
+}
+
+.clearFloat {
+  clear: both;
+}

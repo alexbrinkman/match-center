@@ -1,0 +1,2007 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"client",
+				"client_account1"
+			],
+			[
+				"cli",
+				"client_account1"
+			],
+			[
+				"archived",
+				"archived_admin"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ass",
+				"assigned_admins"
+			],
+			[
+				"invalid",
+				"invalid_count"
+			],
+			[
+				"program_loa",
+				"program_locations"
+			],
+			[
+				"preferred_user",
+				"preferred_user_languages_text"
+			],
+			[
+				"preferred",
+				"preferred_user_languages"
+			],
+			[
+				"financial",
+				"financial_aid"
+			],
+			[
+				"super",
+				"super_admin2"
+			],
+			[
+				"can",
+				"can_manage"
+			],
+			[
+				"prg",
+				"program_contact"
+			],
+			[
+				"program",
+				"program_contact"
+			],
+			[
+				"grad",
+				"grad_user"
+			],
+			[
+				"tr",
+				"traveler_type"
+			],
+			[
+				"other",
+				"other_traveler_type_text"
+			],
+			[
+				"clien",
+				"client_subdomain"
+			],
+			[
+				"priv",
+				"previous_subdomain"
+			],
+			[
+				"pro",
+				"previous_org_name"
+			],
+			[
+				"is",
+				"is_manager"
+			],
+			[
+				"rele",
+				"relevancy"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"traveler",
+				"traveler_info"
+			],
+			[
+				"prog",
+				"program_term_to"
+			],
+			[
+				"preferrr",
+				"preferred_program_locations"
+			],
+			[
+				"app",
+				"app_host"
+			],
+			[
+				"save_",
+				"save_and_open_page"
+			],
+			[
+				"trav",
+				"travelerSignUpPath"
+			],
+			[
+				"sign",
+				"sign_up"
+			],
+			[
+				"ex",
+				"expected2"
+			],
+			[
+				"clie",
+				"client_account_2"
+			],
+			[
+				"phon",
+				"phone_number"
+			],
+			[
+				"vali",
+				"valid_client_account_info"
+			],
+			[
+				"show",
+				"show_radio_groups"
+			],
+			[
+				"phone",
+				"phone_country_code"
+			],
+			[
+				"non",
+				"non_profit_bool"
+			],
+			[
+				"sub",
+				"subdomain"
+			],
+			[
+				"authe",
+				"authenticated_client_account"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"redi",
+				"redirect_to"
+			],
+			[
+				"inactive",
+				"inactive_status"
+			],
+			[
+				"max",
+				"maximum_duration_weeks"
+			],
+			[
+				"min",
+				"minimum_duration_weeks"
+			],
+			[
+				"sin",
+				"sign_in_count"
+			],
+			[
+				"status",
+				"status_placeholder"
+			],
+			[
+				"program_type",
+				"program_type_match"
+			],
+			[
+				"loca",
+				"location_match"
+			],
+			[
+				"level",
+				"level_of_support_match"
+			],
+			[
+				"timing",
+				"timing_match"
+			],
+			[
+				"sort_",
+				"sort_activity"
+			],
+			[
+				"statu",
+				"status_int"
+			],
+			[
+				"travelers",
+				"travelers_to_create"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"timin",
+				"timing_start"
+			],
+			[
+				"query",
+				"query_template"
+			],
+			[
+				"expe",
+				"expected_grid"
+			],
+			[
+				"citi",
+				"citizenship"
+			],
+			[
+				"tra",
+				"traveler3"
+			],
+			[
+				"en",
+				"end_date"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ext",
+				"extra-space-top"
+			],
+			[
+				"ht",
+				"html_safe"
+			],
+			[
+				"search",
+				"search_result"
+			],
+			[
+				"erro",
+				"error_field_str"
+			],
+			[
+				"E",
+				"ERROR_FIELD_STR"
+			],
+			[
+				"preferred_program_count",
+				"preferred_program_country2"
+			],
+			[
+				"trave",
+				"traveler_term"
+			],
+			[
+				"travel",
+				"traveler_funnel_step"
+			],
+			[
+				"ran",
+				"random_priorities"
+			],
+			[
+				"fav",
+				"favorite_programs"
+			],
+			[
+				"favo",
+				"favorite_programs"
+			],
+			[
+				"fa",
+				"favorite_programs"
+			],
+			[
+				"funnel",
+				"funnel_step"
+			],
+			[
+				"funn",
+				"funnel_step"
+			],
+			[
+				"preferred_p",
+				"preferred_program_subject_area1"
+			],
+			[
+				"hou",
+				"housing_types"
+			],
+			[
+				"leve",
+				"level_of_support"
+			],
+			[
+				"support",
+				"support_level_values"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"dir",
+				"dirArrow"
+			],
+			[
+				"countr",
+				"country_list"
+			],
+			[
+				"sort",
+				"sort_dir"
+			],
+			[
+				"sory",
+				"sort_by"
+			],
+			[
+				"coun",
+				"country_list"
+			],
+			[
+				"T",
+				"TRAVEL_REASONS"
+			],
+			[
+				"quest",
+				"question_fields"
+			],
+			[
+				"que",
+				"questions_or_concerns"
+			],
+			[
+				"study",
+				"study_interest"
+			],
+			[
+				"No",
+				"NoMethodError"
+			],
+			[
+				"cit",
+				"citizenship_country1"
+			],
+			[
+				"ci",
+				"citizenship_country1"
+			],
+			[
+				"Ci",
+				"CitizenshipCountry"
+			],
+			[
+				"citiz",
+				"citizenship_countries"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"mess",
+				"message_id"
+			],
+			[
+				"cur",
+				"current_user_id"
+			],
+			[
+				"fu",
+				"funnel_step_int"
+			],
+			[
+				"user",
+				"users_count"
+			],
+			[
+				"users",
+				"users_count"
+			],
+			[
+				"signup",
+				"signup_source"
+			],
+			[
+				"se",
+				"search_filter1"
+			],
+			[
+				"or",
+				"original_target"
+			],
+			[
+				"fun",
+				"funnelStep"
+			],
+			[
+				"sear",
+				"search_filter"
+			],
+			[
+				"pr",
+				"preferred_program_types"
+			],
+			[
+				"pre",
+				"preferred_program_type2"
+			],
+			[
+				"sign_up",
+				"sign_up_from_month"
+			],
+			[
+				"s",
+				"sign_up_from_year"
+			],
+			[
+				"si",
+				"sign_up_from_month"
+			],
+			[
+				"fin",
+				"financial_aid"
+			],
+			[
+				"file",
+				"fileType"
+			],
+			[
+				"valid",
+				"validSubject"
+			],
+			[
+				"redirect",
+				"redirect_path"
+			],
+			[
+				"invit",
+				"invited_user"
+			],
+			[
+				"key",
+				"keyword_query"
+			],
+			[
+				"inv",
+				"invited_traveler"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"fist",
+				"first_name"
+			],
+			[
+				"check",
+				"checkbox-field"
+			],
+			[
+				"per",
+				"per_page"
+			],
+			[
+				"k",
+				"keywords"
+			],
+			[
+				"lo",
+				"lookingFor"
+			],
+			[
+				"cont",
+				"continents_visted"
+			],
+			[
+				"sc",
+				"scrollables"
+			],
+			[
+				"scr",
+				"scrollHeight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/environment.js",
+			"settings":
+			{
+				"buffer_size": 1237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/score.js",
+			"settings":
+			{
+				"buffer_size": 531,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/message.js",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/helpers/inning-suffix.js",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/adapters/application.js",
+			"settings":
+			{
+				"buffer_size": 188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/admin.js",
+			"settings":
+			{
+				"buffer_size": 2396,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/index.js",
+			"settings":
+			{
+				"buffer_size": 74,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/messages.js",
+			"settings":
+			{
+				"buffer_size": 640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes/admin.js",
+			"settings":
+			{
+				"buffer_size": 154,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes/index.js",
+			"settings":
+			{
+				"buffer_size": 154,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pagecon",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"packac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 556.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/brinkman/Websites/other/match-center",
+		"/Users/brinkman/Websites/other/match-center/app",
+		"/Users/brinkman/Websites/other/match-center/app/adapters",
+		"/Users/brinkman/Websites/other/match-center/app/controllers",
+		"/Users/brinkman/Websites/other/match-center/app/helpers",
+		"/Users/brinkman/Websites/other/match-center/app/models",
+		"/Users/brinkman/Websites/other/match-center/app/routes",
+		"/Users/brinkman/Websites/other/match-center/tests",
+		"/Users/brinkman/Websites/other/match-center/tests/unit",
+		"/Users/brinkman/Websites/other/match-center/tests/unit/models"
+	],
+	"file_history":
+	[
+		"/Users/brinkman/Websites/other/opening-day/app/controllers/messages.js",
+		"/Users/brinkman/Websites/other/opening-day/app/adapters/application.js",
+		"/Users/brinkman/Websites/other/opening-day/bower.json",
+		"/Users/brinkman/Websites/other/opening-day/package.json",
+		"/Users/brinkman/Websites/other/opening-day/bower_components/jquery/dist/jquery.js",
+		"/Users/brinkman/Websites/other/opening-day/config/environment.js",
+		"/Users/brinkman/Websites/other/opening-day/dist/assets/vendor.js",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/user.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/notifications/show.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/notifications/show.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/search/partials/_travelers.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/controllers/client/search_controller.rb",
+		"/Users/brinkman/Websites/project_travel_trm/config/secrets.yml",
+		"/Users/brinkman/Websites/project_travel_trm/README.md",
+		"/Users/brinkman/Websites/project_travel_trm/Gemfile",
+		"/Users/brinkman/Websites/project_travel_trm/config/skylight.yml",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/pt_master/clients/index.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/controllers/pt_master/clients_controller_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/controllers/pt_master/clients_controller.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/programs/_program_form.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/config/environments/staging.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/client_account.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/assets/stylesheets/partials/_forms.scss",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/pt_master/users/new.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/program_type.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/helpers/application_helper.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/helpers/application_helper_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/searchable/user_indexes.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/registrations/new.html.erb",
+		"/Users/brinkman/Desktop/elasticsearchquery.json",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/subject_area.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/searchable/user.rb",
+		"/Users/brinkman/Websites/project_travel_trm/temp.txt",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/search/partials/_traveler_filters.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/search/partials/_programs.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/controllers/client/travelers_controller.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/travelers/partials/_participants.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/travelers/partials/_messaging.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/assets/javascripts/vendor/chosen.jquery.js",
+		"/Users/brinkman/Websites/project_travel_trm/db/schema.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/travelers/partials/_admins.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/controllers/client/travelers_controller_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/models/client_account_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/assigned_admin.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/controllers/traveler/programs_controller_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/controllers/traveler/programs_controller.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/dashboard/partials/_traveler_messages.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/controllers/concerns/user_router.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/controllers/client/dashboard_controller_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/config/routes.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/client_account_program.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/controllers/home_controller_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/controllers/client/programs_controller_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/controllers/application_controller_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/shared/client/_header.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/dashboard/index.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/controllers/client/dashboard_controller.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/search/index.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/assets/javascripts/client/program_search.js",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/programs/_program.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/assets/stylesheets/partials/_program.scss",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/program.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/alguru.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/constants.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/shared/_ga.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/shared/_js_snippets.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/shared/_segmentio.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/controllers/pt_master/base_controller.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/application.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/traveler/accounts.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/traveler/notifications.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/traveler/base.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/pt_master/form_with_sub_nav.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/pt_master/base.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/client/form_with_sub_nav.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/client/base.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/styleguide.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/preferred_program_subject_areas.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/mailers/application_mailer.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/mailers/invitation_mailer.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/mailers/standard_mailer.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/mailer.text.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/layouts/mailer.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/mailers/standard_mailer/email.text.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/mailers/standard_mailer/email.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/mailers/invitation_mailer/email.text.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/mailers/invitation_mailer/email.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/travelers/show.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/views/client/travelers/show.html.erb_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/features/client/client_user_views_traveler_profile_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/config/initializers/carrierwave.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/program_search/partials/program_status/_published.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/program_search/partials/_programs.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/controllers/client/program_search_controller.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/controllers/client/programs_controller.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/assets/javascripts/client/programs.js",
+		"/Users/brinkman/Websites/project_travel_trm/app/assets/stylesheets/partials/bootstrap/mixins/_clearfix.scss",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/users/new.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/config/locales/en.csv",
+		"/Users/brinkman/Websites/project_travel_trm/app/controllers/application_controller.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/uploaders/avatar_uploader.rb",
+		"/Users/brinkman/Websites/project_travel_trm/lib/mailboxer/attachment_uploader.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/uploaders/attachment_uploader.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/controllers/traveler/intake_wizard_controller_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/program_range.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/program_highlight.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/factories/program_highlights.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/program_location.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/models/program_subject.rb",
+		"/Users/brinkman/Websites/project_travel_trm/Procfile",
+		"/Users/brinkman/Websites/project_travel_trm/spec/controllers/client/profiles_controller_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/controllers/client/client_accounts_controller_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/models/program_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/client/programs/form_fields/_program_location_fields.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/spec/models/alguru_spec.rb",
+		"/Users/brinkman/Websites/project_travel_trm/app/assets/javascripts/client/travelers.js",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/shared/_wizard_wrapper_start.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/_next_step_arrow.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/_previous_step_arrow.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/_progress_footer_b.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/_progress_footer.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/citizenship_countries.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/advising_questions.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/_traveler_term_fields.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/continents_visited.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/discussed_with_advisor.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/exact_program.html.erb",
+		"/Users/brinkman/Websites/project_travel_trm/app/views/traveler/intake_wizard/financial_aid.html.erb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"",
+			"*.js",
+			"",
+			"*_spec.rb",
+			"",
+			"*_spec.rb",
+			"",
+			"*.scss",
+			"",
+			"*controller_spec.rb",
+			"",
+			"*_spec.rb",
+			"*.spec.rb",
+			"",
+			"/Users/brinkman/Websites/project_travel_trm/db/migrate",
+			"",
+			"*.html.erb",
+			"",
+			"*_controller.rb",
+			"",
+			"*_spec.rb",
+			"*.html.erb",
+			"",
+			"*_controller_spec.*",
+			"_controller_spec.",
+			"",
+			"*_spec.rb",
+			"",
+			"*_spec.rb",
+			"",
+			"*.html.erb",
+			"",
+			"*_spec.rb",
+			"",
+			"*.erb",
+			"",
+			"*_spec.rb",
+			"",
+			"/Users/brinkman/Websites/project_travel_trm/vendor",
+			"/Users/brinkman/Websites/project_travel_trm/vendor/gems/mailboxer-0.13.0",
+			"",
+			"*_controller.rb",
+			"",
+			"*.scss",
+			"",
+			"*.html.erb",
+			"",
+			"*_spec.rb",
+			"",
+			"*_spec.rb",
+			"",
+			"*_spec.rb",
+			"",
+			"*spec.rb",
+			"",
+			"*_spec.rb",
+			"_spec.rb",
+			"",
+			"*.rb",
+			"",
+			"*_spec.rb",
+			"",
+			"*.rb",
+			"",
+			"*_spec.rb",
+			"_spec.rb",
+			"",
+			"*.html.erb",
+			"",
+			"*_spec.rb",
+			"",
+			"*.rb, *.html.erb",
+			"",
+			"*.html.erb",
+			"",
+			"*_test.rb",
+			"",
+			"*_test.rb",
+			"",
+			"*.html.erb",
+			"",
+			"*_test.rb",
+			"",
+			"*_test.rb",
+			"",
+			"*_test.rb",
+			"",
+			"*_controller.rb",
+			"",
+			"*.rb",
+			"",
+			"*.scss",
+			"",
+			"*.html.erb",
+			"",
+			"/Users/brinkman/Devel/v-crew/web/railsapp/development/current/test/uploads",
+			"",
+			"*.html.erb",
+			"",
+			"*.scss",
+			"",
+			"/Users/brinkman/Devel/v-crew/web/railsapp/development/current/app/assets/stylesheets",
+			"",
+			"/Users/brinkman/Devel/v-crew/web/railsapp/development/current/db/migrate",
+			"",
+			"/Users/brinkman/Devel/v-crew/web/railsapp/development/current/test",
+			"",
+			"/Users/brinkman/Devel/v-crew/web/railsapp/development/current/vendor/assets",
+			"",
+			"*_test.rb",
+			"",
+			"*_test*",
+			"",
+			"*_test.rb",
+			"",
+			"*_test.rb",
+			"",
+			"*_test.rb",
+			"_test.rb",
+			"",
+			"*_test.rb",
+			"",
+			"*_test.rb",
+			"",
+			"/Users/brinkman/Devel/v-crew/web/railsapp/development/current/app/views/coordinators/clients",
+			"",
+			"/Users/brinkman/Devel/v-crew/web/railsapp/development/current/app/views/crews/preview",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".find",
+			"firebase",
+			"service:firebase",
+			"firebase",
+			"1.6.6",
+			"contentSecurityPolicy",
+			"Notifications",
+			"Receive email not",
+			"Notifications",
+			"display_funnel_step",
+			"href",
+			"be",
+			"status",
+			"sa",
+			"status",
+			"statuses",
+			"narrow",
+			"super_admins",
+			"update_status",
+			"Register Client User",
+			"Manage Client Accounts",
+			"question_fields",
+			"Register Client User",
+			"contain_exactly(expected1, expected2)",
+			"client_account_subdomains",
+			"Which organi",
+			".downcase.gsub(",
+			"_index",
+			"Program Name",
+			"traveler_status",
+			"include",
+			"contain_exa",
+			"contains_exa",
+			"assigned_admins_by_traveler",
+			"@assigned_admins",
+			"@assigned",
+			"confirm:",
+			"o contact an advisor at Univ",
+			"showing new users",
+			"search_client_travelers_path",
+			"debug",
+			"serializeForm",
+			"program_provider",
+			"buildSearchPlaceholder",
+			"setSortArrows",
+			"initializeEvents",
+			"buildSearchPlaceholder",
+			"program-box_logo",
+			"logo_container",
+			"Program footer",
+			"Alguru.new",
+			"if Rails.env.production?",
+			" || Rails.env.staging?",
+			"analytics",
+			"radio-button-field-group",
+			"I am interested",
+			"I am interested in the follow",
+			"StandardMa",
+			"Documents",
+			"Document",
+			"meta_info",
+			"Traveler Favorites",
+			"display: block",
+			"clearfix",
+			"clear: both",
+			"clearfloat",
+			"float",
+			"Register Client User",
+			"Invite New Client",
+			":fog",
+			"@program_contact",
+			" << [@program_highlight]",
+			":base",
+			"program.",
+			"program",
+			"full_messages }",
+			"program.errors.to_flash",
+			"to_flash",
+			"combined_errors",
+			"  ",
+			"validates_associated",
+			"* ",
+			"binding.pry",
+			"validates_associated",
+			".to_render",
+			"Updated",
+			"id: @program.id, ",
+			"client_program",
+			"FactoryGirl.create(:program",
+			"FactoryGirl.create(:program)",
+			"end.to",
+			"University of Colorado",
+			"ClientPrograms",
+			"TravelerProgramSearch",
+			".chosen",
+			"Where is the program located",
+			"unless @program.program_eligibility.eligibility_info.blank?",
+			"binding.pry",
+			"I want to work/study",
+			"study_lan",
+			"Program Location",
+			"subject_areas",
+			"study_lan",
+			"subject_areas",
+			"@program.program_eligibility.eligibility_info.blank?",
+			"send_invitation",
+			"InvitationMailer",
+			"send_invitation",
+			"InvitationMailer",
+			"reply@",
+			"noreply",
+			"www.",
+			"Master",
+			"space",
+			"user.confi",
+			"binding.pry",
+			"traveler",
+			"FactoryGirl.create(:program",
+			"@via-trm.com",
+			"noreply",
+			"@super_admin",
+			"@user",
+			"AssignedAdmin",
+			"assigned_admins",
+			"associated_admins",
+			"logger.info",
+			"to contact an advisor",
+			"StandardMailer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"traveler_new_user_session_path",
+			"traveler_new_user_registration_path",
+			"client_new_user_registration_path",
+			"new_traveler_user_session_path",
+			"require \"rails_helper\"",
+			"manager",
+			"admin",
+			"pub_status_str",
+			"(Leave blank to not change. Passwords should be at least 8 characters long.)",
+			"corporate_reviewer",
+			"company_details"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/environment.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/score.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/models/message.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/helpers/inning-suffix.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/adapters/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/controllers/admin.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2396,
+								2396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1345.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/controllers/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/controllers/messages.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/routes/admin.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 134.0
+	},
+	"output.find_results":
+	{
+		"height": 128.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "match-center.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"envir",
+				"config/environment.js"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"client/search/partials/_travelers.html.erb",
+				"app/views/client/search/partials/_travelers.html.erb"
+			],
+			[
+				"searchcontro",
+				"app/controllers/client/search_controller.rb"
+			],
+			[
+				"skylight",
+				"config/skylight.yml"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"stag",
+				"config/environments/staging.rb"
+			],
+			[
+				"_program_form.html.erb",
+				"app/views/client/programs/_program_form.html.erb"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"client",
+				"app/models/client_account.rb"
+			],
+			[
+				"programtyp",
+				"app/models/program_type.rb"
+			],
+			[
+				"clientaccount",
+				"app/models/client_account.rb"
+			],
+			[
+				"user",
+				"app/models/searchable/user.rb"
+			],
+			[
+				"searchcon",
+				"app/controllers/client/search_controller.rb"
+			],
+			[
+				"app/controllers/client/travelers_controller",
+				"app/controllers/client/travelers_controller.rb"
+			],
+			[
+				"_parti",
+				"app/views/client/travelers/partials/_participants.html.erb"
+			],
+			[
+				"search",
+				"app/controllers/client/search_controller.rb"
+			],
+			[
+				"assigned",
+				"app/models/assigned_admin.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"programs_con",
+				"app/controllers/traveler/programs_controller.rb"
+			],
+			[
+				"spec/controllers/traveler/programs_controller_spec.rb",
+				"spec/controllers/traveler/programs_controller_spec.rb"
+			],
+			[
+				"homecon",
+				"spec/controllers/home_controller_spec.rb"
+			],
+			[
+				"clientacounpro",
+				"app/models/client_account_program.rb"
+			],
+			[
+				"programsconspe",
+				"spec/controllers/traveler/programs_controller_spec.rb"
+			],
+			[
+				"programs",
+				"spec/controllers/client/programs_controller_spec.rb"
+			],
+			[
+				"router",
+				"config/routes.rb"
+			],
+			[
+				"dashboard",
+				"spec/controllers/client/dashboard_controller_spec.rb"
+			],
+			[
+				"applicaioncon",
+				"spec/controllers/application_controller_spec.rb"
+			],
+			[
+				"progra",
+				"app/models/program.rb"
+			],
+			[
+				"alguru",
+				"app/models/alguru.rb"
+			],
+			[
+				"base",
+				"app/controllers/pt_master/base_controller.rb"
+			],
+			[
+				"carrier",
+				"config/initializers/carrierwave.rb"
+			],
+			[
+				"client_user_views_traveler_profile_spec",
+				"spec/features/client/client_user_views_traveler_profile_spec.rb"
+			],
+			[
+				"spec/views/client/travelers/show.html.erb_spec",
+				"spec/views/client/travelers/show.html.erb_spec.rb"
+			],
+			[
+				"intakecon",
+				"spec/controllers/traveler/intake_wizard_controller_spec.rb"
+			],
+			[
+				"attachmen",
+				"lib/mailboxer/attachment_uploader.rb"
+			],
+			[
+				"applica",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"secrets",
+				"config/secrets.yml"
+			],
+			[
+				"en.",
+				"config/locales/en.csv"
+			],
+			[
+				"programhight",
+				"app/models/program_highlight.rb"
+			],
+			[
+				"programhi",
+				"spec/factories/program_highlights.rb"
+			],
+			[
+				"program_subject",
+				"app/models/program_subject.rb"
+			],
+			[
+				"program_locaiton",
+				"app/models/program_location.rb"
+			],
+			[
+				"procfil",
+				"Procfile"
+			],
+			[
+				"programran",
+				"app/models/program_range.rb"
+			],
+			[
+				"program",
+				"app/models/program.rb"
+			],
+			[
+				"program_location_field",
+				"app/views/client/programs/form_fields/_program_location_fields.html.erb"
+			],
+			[
+				"userlan",
+				"app/models/user_language.rb"
+			],
+			[
+				"searchcob",
+				"app/controllers/client/search_controller.rb"
+			],
+			[
+				"intakewizard",
+				"app/controllers/traveler/intake_wizard_controller.rb"
+			],
+			[
+				"programl",
+				"spec/factories/program_languages.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"se",
+				"config/secrets.yml"
+			],
+			[
+				"produ",
+				"config/environments/production.rb"
+			],
+			[
+				"staging",
+				"config/environments/staging.rb"
+			],
+			[
+				"seeds",
+				"db/seeds.rb"
+			],
+			[
+				"app/views/shared/traveler/_header.html.erb",
+				"app/views/shared/traveler/_header.html.erb"
+			],
+			[
+				"avatar",
+				"app/uploaders/avatar_uploader.rb"
+			],
+			[
+				"views/shared/client/_header.html.erb",
+				"app/views/shared/client/_header.html.erb"
+			],
+			[
+				"seeduser",
+				"lib/tasks/seed_users.rake"
+			],
+			[
+				"programmatcpar",
+				"app/models/program_matching_parameters.rb"
+			],
+			[
+				"programmatch",
+				"app/models/program_matching_parameters.rb"
+			],
+			[
+				"algu",
+				"app/models/alguru.rb"
+			],
+			[
+				"programscon",
+				"app/controllers/client/programs_controller.rb"
+			],
+			[
+				"coverage",
+				"coverage/index.html"
+			],
+			[
+				"basecon",
+				"app/controllers/traveler/base_controller.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"admin",
+				"app/workers/admin_notification_worker.rb"
+			],
+			[
+				"search_controller",
+				"app/controllers/client/search_controller.rb"
+			],
+			[
+				"travelerre",
+				"spec/features/traveler/traveler_registers_spec.rb"
+			],
+			[
+				"feature",
+				"spec/feature_helper.rb"
+			],
+			[
+				"letteropen",
+				"tmp/letter_opener/1457144751_c387a7c/rich.html"
+			],
+			[
+				"spec/features/client/client_user_can_invite_travelers_spec.rb",
+				"spec/features/client/client_user_can_invite_travelers_spec.rb"
+			],
+			[
+				"spec/features/client/client_user_views_traveler_profile_spec.rb",
+				"spec/features/client/client_user_views_traveler_profile_spec.rb"
+			],
+			[
+				"spec/features/client/client_user_fills_out_profile_spec.rb",
+				"spec/features/client/client_user_fills_out_profile_spec.rb"
+			],
+			[
+				"travda",
+				"app/presenters/traveler_dashboard_presenter.rb"
+			],
+			[
+				"intake",
+				"app/controllers/traveler/intake_wizard_controller.rb"
+			],
+			[
+				"clienttra",
+				"app/models/client_traveler.rb"
+			],
+			[
+				"clienttrave",
+				"app/models/client_traveler.rb"
+			],
+			[
+				"traveler",
+				"app/models/traveler_info.rb"
+			],
+			[
+				"financial_",
+				"app/models/financial_info.rb"
+			],
+			[
+				"travelerdash",
+				"app/presenters/traveler_dashboard_presenter.rb"
+			],
+			[
+				"spec/controllers/traveler/intake_wizard_controller_spec.rb",
+				"spec/controllers/traveler/intake_wizard_controller_spec.rb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"seedusers",
+				"lib/tasks/seed_users.rake"
+			],
+			[
+				"spec/features/client/client_user_can_search_and_filter_their_programs_spec.rb",
+				"spec/features/client/client_user_can_search_and_filter_their_programs_spec.rb"
+			],
+			[
+				"client/users/index.html.erb",
+				"spec/views/client/users/index.html.erb_spec.rb"
+			],
+			[
+				"spec/features/client/super_admin_can_manage_users_spec.rb",
+				"spec/features/client/super_admin_can_manage_users_spec.rb"
+			],
+			[
+				"develop",
+				"config/environments/development.rb"
+			],
+			[
+				"userroute",
+				"app/controllers/concerns/user_router.rb"
+			],
+			[
+				"role",
+				"spec/models/role_spec.rb"
+			],
+			[
+				"userscon",
+				"app/controllers/client/users_controller.rb"
+			],
+			[
+				"users",
+				"spec/controllers/client/users_controller_spec.rb"
+			],
+			[
+				"user_spec",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"app/views/client/users/index.html.erb",
+				"app/views/client/users/index.html.erb"
+			],
+			[
+				"app/views/traveler/programs/show.html",
+				"app/views/traveler/programs/show.html.erb"
+			],
+			[
+				"programmat",
+				"app/models/program_matching_parameters.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"profilecontro",
+				"spec/controllers/client/profiles_controller_spec.rb"
+			],
+			[
+				"profilecontr",
+				"app/controllers/pt_master/profiles_controller.rb"
+			],
+			[
+				"profilecon",
+				"app/controllers/client/profiles_controller.rb"
+			],
+			[
+				"profiles",
+				"app/controllers/client/profiles_controller.rb"
+			],
+			[
+				"colors",
+				"app/views/styleguide/partials/_colors.html.erb"
+			],
+			[
+				"_form",
+				"app/assets/stylesheets/partials/_forms.scss"
+			],
+			[
+				"address",
+				"app/models/address.rb"
+			],
+			[
+				"client_acocunt_info",
+				"app/models/client_account_info.rb"
+			],
+			[
+				"userrou",
+				"app/controllers/concerns/user_router.rb"
+			],
+			[
+				"clientaccountcon",
+				"app/controllers/client/client_accounts_controller.rb"
+			],
+			[
+				"spec/controllers/client/users_controller_spec.rb",
+				"spec/controllers/client/users_controller_spec.rb"
+			],
+			[
+				"super_admin_can_manage_users_spec.rb",
+				"spec/features/client/super_admin_can_manage_users_spec.rb"
+			],
+			[
+				"program_spec",
+				"spec/models/program_spec.rb"
+			],
+			[
+				"client_account",
+				"app/models/client_account.rb"
+			],
+			[
+				"secre",
+				"config/secrets.yml"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"travelerdasb",
+				"app/presenters/traveler_dashboard_presenter.rb"
+			],
+			[
+				"client_user_can_search_and_filter_their_travelers_spec",
+				"spec/features/client/client_user_can_search_and_filter_their_travelers_spec.rb"
+			],
+			[
+				"removetrave",
+				"db/migrate/20160302183924_remove_traveler_type_from_profile.rb"
+			],
+			[
+				"traveler_info",
+				"app/models/traveler_info.rb"
+			],
+			[
+				"profile",
+				"app/models/profile.rb"
+			],
+			[
+				"superadminde",
+				"spec/features/client/super_admin_deletes_client_user_spec.rb"
+			],
+			[
+				"clientuserf",
+				"spec/features/client/client_user_fills_out_profile_spec.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"addfro",
+				"db/migrate/20160302145418_add_frozen_flag_to_users.rb"
+			],
+			[
+				"super_admin_deletes_client_user_spec.rb",
+				"spec/features/client/super_admin_deletes_client_user_spec.rb"
+			],
+			[
+				"clientupdate",
+				"spec/features/client/client_updates_notification_settings_spec.rb"
+			],
+			[
+				"spec/features/traveler/traveler_conversation_spec.rb",
+				"spec/features/traveler/traveler_conversation_spec.rb"
+			],
+			[
+				"spec/features/client/super_admin_invites_client_users_spec.rb",
+				"spec/features/client/super_admin_invites_client_users_spec.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Websites/project_travel_trm/project_travel.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 384.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

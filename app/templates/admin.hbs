@@ -1,0 +1,270 @@
+<section>
+
+  <div class="bg-color1">
+    <fieldset>
+      <label>Team1</label>
+      {{input type="text" value=model.team1Name key-press="update"}}
+    </fieldset>
+
+    <fieldset>
+      <label>Team2</label>
+      {{input type="text" value=model.team2Name key-press="update"}}
+    </fieldset>
+  </div>
+
+  <h3>First Singles</h3>
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court1Team1Set1}}
+        <button {{action 'valueUp' 'court1Team1Set1'}}>+</button>
+        <button {{action 'valueDown' 'court1Team1Set1'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court1Team2Set1}}
+        <button {{action 'valueUp' 'court1Team2Set1'}}>+</button>
+        <button {{action 'valueDown' 'court1Team2Set1'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court1Team1Set2}}
+        <button {{action 'valueUp' 'court1Team1Set2'}}>+</button>
+        <button {{action 'valueDown' 'court1Team1Set2'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court1Team2Set2}}
+        <button {{action 'valueUp' 'court1Team2Set2'}}>+</button>
+        <button {{action 'valueDown' 'court1Team2Set2'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court1Team1Set3}}
+        <button {{action 'valueUp' 'court1Team1Set3'}}>+</button>
+        <button {{action 'valueDown' 'court1Team1Set3'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court1Team2Set3}}
+        <button {{action 'valueUp' 'court1Team2Set3'}}>+</button>
+        <button {{action 'valueDown' 'court1Team2Set3'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div class="clearFloat"></div>
+
+  <h3>Second Singles</h3>
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court2Team1Set1}}
+        <button {{action 'valueUp' 'court2Team1Set1'}}>+</button>
+        <button {{action 'valueDown' 'court2Team1Set1'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court2Team2Set1}}
+        <button {{action 'valueUp' 'court2Team2Set1'}}>+</button>
+        <button {{action 'valueDown' 'court2Team2Set1'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court2Team1Set2}}
+        <button {{action 'valueUp' 'court2Team1Set2'}}>+</button>
+        <button {{action 'valueDown' 'court2Team1Set2'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court2Team2Set2}}
+        <button {{action 'valueUp' 'court2Team2Set2'}}>+</button>
+        <button {{action 'valueDown' 'court2Team2Set2'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court2Team1Set3}}
+        <button {{action 'valueUp' 'court2Team1Set3'}}>+</button>
+        <button {{action 'valueDown' 'court2Team1Set3'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court2Team2Set3}}
+        <button {{action 'valueUp' 'court2Team2Set3'}}>+</button>
+        <button {{action 'valueDown' 'court2Team2Set3'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div class="clearFloat"></div>
+
+  <h3>First Doubles</h3>
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court3Team1Set1}}
+        <button {{action 'valueUp' 'court3Team1Set1'}}>+</button>
+        <button {{action 'valueDown' 'court3Team1Set1'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court3Team2Set1}}
+        <button {{action 'valueUp' 'court3Team2Set1'}}>+</button>
+        <button {{action 'valueDown' 'court3Team2Set1'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court3Team1Set2}}
+        <button {{action 'valueUp' 'court3Team1Set2'}}>+</button>
+        <button {{action 'valueDown' 'court3Team1Set2'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court3Team2Set2}}
+        <button {{action 'valueUp' 'court3Team2Set2'}}>+</button>
+        <button {{action 'valueDown' 'court3Team2Set2'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court3Team1Set3}}
+        <button {{action 'valueUp' 'court3Team1Set3'}}>+</button>
+        <button {{action 'valueDown' 'court3Team1Set3'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court3Team2Set3}}
+        <button {{action 'valueUp' 'court3Team2Set3'}}>+</button>
+        <button {{action 'valueDown' 'court3Team2Set3'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div class="clearFloat"></div>
+
+  <h3>Second Doubles</h3>
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court4Team1Set1}}
+        <button {{action 'valueUp' 'court4Team1Set1'}}>+</button>
+        <button {{action 'valueDown' 'court4Team1Set1'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court4Team2Set1}}
+        <button {{action 'valueUp' 'court4Team2Set1'}}>+</button>
+        <button {{action 'valueDown' 'court4Team2Set1'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court4Team1Set2}}
+        <button {{action 'valueUp' 'court4Team1Set2'}}>+</button>
+        <button {{action 'valueDown' 'court4Team1Set2'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court4Team2Set2}}
+        <button {{action 'valueUp' 'court4Team2Set2'}}>+</button>
+        <button {{action 'valueDown' 'court4Team2Set2'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court4Team1Set3}}
+        <button {{action 'valueUp' 'court4Team1Set3'}}>+</button>
+        <button {{action 'valueDown' 'court4Team1Set3'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court4Team2Set3}}
+        <button {{action 'valueUp' 'court4Team2Set3'}}>+</button>
+        <button {{action 'valueDown' 'court4Team2Set3'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div class="clearFloat"></div>
+
+  <h3>Third Doubles</h3>
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court5Team1Set1}}
+        <button {{action 'valueUp' 'court5Team1Set1'}}>+</button>
+        <button {{action 'valueDown' 'court5Team1Set1'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court5Team2Set1}}
+        <button {{action 'valueUp' 'court5Team2Set1'}}>+</button>
+        <button {{action 'valueDown' 'court5Team2Set1'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court5Team1Set2}}
+        <button {{action 'valueUp' 'court5Team1Set2'}}>+</button>
+        <button {{action 'valueDown' 'court5Team1Set2'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court5Team2Set2}}
+        <button {{action 'valueUp' 'court5Team2Set2'}}>+</button>
+        <button {{action 'valueDown' 'court5Team2Set2'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <label>{{model.court5Team1Set3}}
+        <button {{action 'valueUp' 'court5Team1Set3'}}>+</button>
+        <button {{action 'valueDown' 'court5Team1Set3'}}>-</button>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <label>{{model.court5Team2Set3}}
+        <button {{action 'valueUp' 'court5Team2Set3'}}>+</button>
+        <button {{action 'valueDown' 'court5Team2Set3'}}>-</button>
+      </label>
+    </fieldset>
+  </div>
+
+  <div class="clearFloat"></div>
+
+</section>
