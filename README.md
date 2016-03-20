@@ -41,7 +41,8 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+aws s3 sync dist s3://www.matchcenter.com/ --acl public-read --recursive
+www.matchcenter.com.s3-website-us-west-2.amazonaws.com
 
 ## Further Reading / Useful Links
 
