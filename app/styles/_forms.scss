@@ -1,10 +1,8 @@
 input[type='text'] {
-  font-size: 2em;
-  height: 2em;
-  width: 100%;
-  background-color: $background-color1;
-  border: 1px solid $primary-text-color;
-  color: $primary-text-color;
+  /*font-size: 2em;*/
+  /*height: 2em;*/
+  /*width: 100%;*/
+  /*color: $primary-text-color;*/
 }
 
 input[type=text].narrow {
@@ -13,7 +11,7 @@ input[type=text].narrow {
 
 fieldset {
   margin: 0 0 20px 0;
-  font-size: 14px;
+  /*font-size: 14px;*/
   border: none;
   padding-left: 0;
   text-align: left;
@@ -23,8 +21,8 @@ fieldset label {
   display: block;
   margin: 0 0 5px 0;
   font-weight: bold;
-  color: $primary-text-color;
-  font-size: 1.3em;
+  /*color: $primary-text-color;*/
+  /*font-size: 1.3em;*/
 }
 
 button {
@@ -50,4 +48,60 @@ button.large {
 .ball1, .ball2, .ball3, .strike1, .strike2, .out1, .out2 {
   border: 1px solid $tertiary-text-color;
   color: $tertiary-text-color;
+}
+
+
+/* Forms
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+input[type="email"], input[type="number"], input[type="search"], input[type="text"],
+input[type="tel"], input[type="url"], input[type="password"], textarea, select {
+  height: 38px;
+  padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
+  background-color: #fff;
+  border: 1px solid #D1D1D1;
+  border-radius: 4px;
+  box-shadow: none;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+/* Removes awkward default styles on some inputs for iOS */
+input[type="email"], input[type="number"], input[type="search"], input[type="text"],
+input[type="tel"], input[type="url"], input[type="password"], textarea {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+textarea {
+  min-height: 65px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focus, input[type="text"]:focus,
+input[type="tel"]:focus, input[type="url"]:focus, input[type="password"]:focus, textarea:focus, select:focus {
+  border: 1px solid $purple;
+  outline: 0;
+}
+
+label, legend {
+  display: block;
+  margin-bottom: .5rem;
+  font-weight: 600;
+}
+
+fieldset {
+  padding: 0;
+  border-width: 0;
+}
+
+input[type="checkbox"], input[type="radio"] {
+  display: inline;
+}
+
+label > .label-body {
+  display: inline-block;
+  margin-left: .5rem;
+  font-weight: normal;
 }
