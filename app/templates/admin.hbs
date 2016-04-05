@@ -1,6 +1,6 @@
 <section>
 
-  <div class="bg-color1">
+  <div>
     <fieldset>
       <label>Team 1</label>
       {{input type="text" value=model.team1Name key-press="update"}}
@@ -13,6 +13,13 @@
   </div>
 
   <h4 class="align-left">First Singles</h4>
+
+  <div class="player-box">
+    {{input type="text" value=model.court1Team1Name placeholder="Player 1" key-press="update" class="text-small"}}
+    vs
+    {{input type="text" value=model.court1Team2Name placeholder="Player 2" key-press="update" class="text-small"}}
+  </div>
+
   <div style="width: 15%; float: left;">
     <fieldset>
       <label>{{model.court1Team1Set1}}
@@ -61,9 +68,26 @@
     </fieldset>
   </div>
 
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <button {{action 'set' 'court1Team1Serving' true}}>Serving</button>
+    </fieldset>
+
+    <fieldset>
+      <button {{action 'set' 'court1Team1Serving' false}}>Serving</button>
+    </fieldset>
+  </div>
+
   <div class="clearFloat"></div>
 
   <h4 class="align-left">Second Singles</h4>
+
+  <div class="player-box">
+    {{input type="text" value=model.court2Team1Name placeholder="Player 1" key-press="update" class="text-small"}}
+    vs
+    {{input type="text" value=model.court2Team2Name placeholder="Player 2" key-press="update" class="text-small"}}
+  </div>
+
   <div style="width: 15%; float: left;">
     <fieldset>
       <label>{{model.court2Team1Set1}}
@@ -112,9 +136,26 @@
     </fieldset>
   </div>
 
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <button {{action 'set' 'court2Team1Serving' true}}>Serving</button>
+    </fieldset>
+
+    <fieldset>
+      <button {{action 'set' 'court2Team1Serving' false}}>Serving</button>
+    </fieldset>
+  </div>
+
   <div class="clearFloat"></div>
 
   <h4 class="align-left">First Doubles</h4>
+
+  <div class="player-box">
+    {{input type="text" value=model.court3Team1Name placeholder="Player 1" key-press="update" class="text-small"}}
+    vs
+    {{input type="text" value=model.court3Team2Name placeholder="Player 2" key-press="update" class="text-small"}}
+  </div>
+
   <div style="width: 15%; float: left;">
     <fieldset>
       <label>{{model.court3Team1Set1}}
@@ -163,9 +204,26 @@
     </fieldset>
   </div>
 
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <button {{action 'set' 'court3Team1Serving' true}}>Serving</button>
+    </fieldset>
+
+    <fieldset>
+      <button {{action 'set' 'court3Team1Serving' false}}>Serving</button>
+    </fieldset>
+  </div>
+
   <div class="clearFloat"></div>
 
   <h4 class="align-left">Second Doubles</h4>
+
+  <div class="player-box">
+    {{input type="text" value=model.court4Team1Name placeholder="Player 1" key-press="update" class="text-small"}}
+    vs
+    {{input type="text" value=model.court4Team2Name placeholder="Player 2" key-press="update" class="text-small"}}
+  </div>
+
   <div style="width: 15%; float: left;">
     <fieldset>
       <label>{{model.court4Team1Set1}}
@@ -214,9 +272,26 @@
     </fieldset>
   </div>
 
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <button {{action 'set' 'court4Team1Serving' true}}>Serving</button>
+    </fieldset>
+
+    <fieldset>
+      <button {{action 'set' 'court4Team1Serving' false}}>Serving</button>
+    </fieldset>
+  </div>
+
   <div class="clearFloat"></div>
 
   <h4 class="align-left">Third Doubles</h4>
+
+  <div class="player-box">
+    {{input type="text" value=model.court5Team1Name placeholder="Player 1" key-press="update" class="text-small"}}
+    vs
+    {{input type="text" value=model.court5Team2Name placeholder="Player 2" key-press="update" class="text-small"}}
+  </div>
+
   <div style="width: 15%; float: left;">
     <fieldset>
       <label>{{model.court5Team1Set1}}
@@ -262,6 +337,16 @@
         <button {{action 'valueUp' 'court5Team2Set3'}}>+</button>
         <button {{action 'valueDown' 'court5Team2Set3'}}>-</button>
       </label>
+    </fieldset>
+  </div>
+
+  <div style="width: 15%; float: left;">
+    <fieldset>
+      <button {{action 'set' 'court5Team1Serving' true}}>Serving</button>
+    </fieldset>
+
+    <fieldset>
+      <button {{action 'set' 'court5Team1Serving' false}}>Serving</button>
     </fieldset>
   </div>
 

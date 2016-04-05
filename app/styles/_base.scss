@@ -99,12 +99,37 @@ small {
   width: 40%;
 }
 
+.player-box {
+  text-align: left;
+  margin-bottom: 2em;
+}
+
 .margin-bottom {
   margin-bottom: 2em;
 }
 
 .align-left {
   text-align: left;
+}
+
+.serving {
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  background-color: $purple;
+  display: inline-block;
+  position: relative;
+  top: 5px;
+}
+
+.not-serving {
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  background-color: white;
+  display: inline-block;
+  position: relative;
+  top: 5px;
 }
 
 .clearFloat {

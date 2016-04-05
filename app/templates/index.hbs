@@ -5,18 +5,20 @@
   </div>
 
   <div class="box-score">
-    <h2>First Singles</h2>
+    <h4>First Singles - {{model.court1Team1Name}} vs. {{model.court1Team2Name}}</h4>
     <div>
       <span class="box-score-title">Set 1</span>
       <span class="box-score-title">Set 2</span>
       <span class="box-score-title">Set 3</span>
     </div>
     <div>
+      <span class="{{if model.court1Team1Serving "serving" "not-serving"}}">&nbsp;</span>
       <span class="box-score-value">{{model.court1Team1Set1}}</span>
       <span class="box-score-value">{{model.court1Team1Set2}}</span>
       <span class="box-score-value">{{model.court1Team1Set3}}</span>
     </div>
     <div>
+      <span class="{{if model.court1Team1Serving "not-serving" "serving"}}">&nbsp;</span>
       <span class="box-score-value">{{model.court1Team2Set1}}</span>
       <span class="box-score-value">{{model.court1Team2Set2}}</span>
       <span class="box-score-value">{{model.court1Team2Set3}}</span>
@@ -24,18 +26,20 @@
   </div>
 
   <div class="box-score">
-    <h2>Second Singles</h2>
+    <h4>Second Singles - {{model.court2Team1Name}} vs. {{model.court2Team2Name}}</h4>
     <div>
       <span class="box-score-title">Set 1</span>
       <span class="box-score-title">Set 2</span>
       <span class="box-score-title">Set 3</span>
     </div>
     <div>
+      <span class="{{if model.court2Team1Serving "serving" "not-serving"}}">&nbsp;</span>
       <span class="box-score-value">{{model.court2Team1Set1}}</span>
       <span class="box-score-value">{{model.court2Team1Set2}}</span>
       <span class="box-score-value">{{model.court2Team1Set3}}</span>
     </div>
     <div>
+      <span class="{{if model.court2Team1Serving "not-serving" "serving"}}">&nbsp;</span>
       <span class="box-score-value">{{model.court2Team2Set1}}</span>
       <span class="box-score-value">{{model.court2Team2Set2}}</span>
       <span class="box-score-value">{{model.court2Team2Set3}}</span>
@@ -43,18 +47,20 @@
   </div>
 
   <div class="box-score">
-    <h2>First Doubles</h2>
+    <h4>First Doubles - {{model.court3Team1Name}} vs. {{model.court3Team2Name}}</h4>
     <div>
       <span class="box-score-title">Set 1</span>
       <span class="box-score-title">Set 2</span>
       <span class="box-score-title">Set 3</span>
     </div>
     <div>
+      <span class="{{if model.court3Team1Serving "serving" "not-serving"}}">&nbsp;</span>
       <span class="box-score-value">{{model.court3Team1Set1}}</span>
       <span class="box-score-value">{{model.court3Team1Set2}}</span>
       <span class="box-score-value">{{model.court3Team1Set3}}</span>
     </div>
     <div>
+      <span class="{{if model.court3Team1Serving "not-serving" "serving"}}">&nbsp;</span>
       <span class="box-score-value">{{model.court3Team2Set1}}</span>
       <span class="box-score-value">{{model.court3Team2Set2}}</span>
       <span class="box-score-value">{{model.court3Team2Set3}}</span>
@@ -62,18 +68,20 @@
   </div>
 
   <div class="box-score">
-    <h2>Second Doubles</h2>
+    <h4>Second Doubles - {{model.court4Team1Name}} vs. {{model.court4Team2Name}}</h4>
     <div>
       <span class="box-score-title">Set 1</span>
       <span class="box-score-title">Set 2</span>
       <span class="box-score-title">Set 3</span>
     </div>
     <div>
+      <span class="{{if model.court4Team1Serving "serving" "not-serving"}}">&nbsp;</span>
       <span class="box-score-value">{{model.court4Team1Set1}}</span>
       <span class="box-score-value">{{model.court4Team1Set2}}</span>
       <span class="box-score-value">{{model.court4Team1Set3}}</span>
     </div>
     <div>
+      <span class="{{if model.court4Team1Serving "not-serving" "serving"}}">&nbsp;</span>
       <span class="box-score-value">{{model.court4Team2Set1}}</span>
       <span class="box-score-value">{{model.court4Team2Set2}}</span>
       <span class="box-score-value">{{model.court4Team2Set3}}</span>
@@ -81,18 +89,20 @@
   </div>
 
   <div class="box-score">
-    <h2>Third Doubles</h2>
+    <h4>Third Doubles - {{model.court5Team1Name}} vs. {{model.court5Team2Name}}</h4>
     <div>
       <span class="box-score-title">Set 1</span>
       <span class="box-score-title">Set 2</span>
       <span class="box-score-title">Set 3</span>
     </div>
     <div>
+      <span class="{{if model.court5Team1Serving "serving" "not-serving"}}">&nbsp;</span>
       <span class="box-score-value">{{model.court5Team1Set1}}</span>
       <span class="box-score-value">{{model.court5Team1Set2}}</span>
       <span class="box-score-value">{{model.court5Team1Set3}}</span>
     </div>
     <div>
+      <span class="{{if model.court5Team1Serving "not-serving" "serving"}}">&nbsp;</span>
       <span class="box-score-value">{{model.court5Team2Set1}}</span>
       <span class="box-score-value">{{model.court5Team2Set2}}</span>
       <span class="box-score-value">{{model.court5Team2Set3}}</span>
