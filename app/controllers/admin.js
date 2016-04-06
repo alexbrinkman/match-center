@@ -28,6 +28,14 @@ export default Ember.Controller.extend({
       model.save();
     },
 
+    toggle : function (field) {
+      var model = this.get('content');
+      var value = model.get(field);
+      value = !value;
+      model.set(field, value);
+      model.save();
+    },
+
     set : function (field, value) {
       var model = this.get('content');
       model.set(field, value);

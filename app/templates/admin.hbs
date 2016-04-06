@@ -68,13 +68,19 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div style="width: 5%; float: left;">
     <fieldset>
-      <button {{action 'set' 'court1Team1Serving' true}}>Serving</button>
+      <span class="{{if model.court1Team1Serving "serving" "not-serving"}}">&nbsp;</span>
     </fieldset>
 
     <fieldset>
-      <button {{action 'set' 'court1Team1Serving' false}}>Serving</button>
+      <span class="{{if model.court1Team1Serving "not-serving" "serving"}}">&nbsp;</span>
+    </fieldset>
+  </div>
+
+  <div style="width: 25%; float: left;">
+    <fieldset>
+      <button class="change-server" {{action 'toggle' 'court1Team1Serving'}}>Change Server</button>
     </fieldset>
   </div>
 
@@ -136,13 +142,19 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div style="width: 5%; float: left;">
     <fieldset>
-      <button {{action 'set' 'court2Team1Serving' true}}>Serving</button>
+      <span class="{{if model.court2Team1Serving "serving" "not-serving"}}">&nbsp;</span>
     </fieldset>
 
     <fieldset>
-      <button {{action 'set' 'court2Team1Serving' false}}>Serving</button>
+      <span class="{{if model.court2Team1Serving "not-serving" "serving"}}">&nbsp;</span>
+    </fieldset>
+  </div>
+
+  <div style="width: 25%; float: left;">
+    <fieldset>
+      <button class="change-server" {{action 'toggle' 'court2Team1Serving'}}>Change Server</button>
     </fieldset>
   </div>
 
@@ -204,13 +216,19 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div style="width: 5%; float: left;">
     <fieldset>
-      <button {{action 'set' 'court3Team1Serving' true}}>Serving</button>
+      <span class="{{if model.court3Team1Serving "serving" "not-serving"}}">&nbsp;</span>
     </fieldset>
 
     <fieldset>
-      <button {{action 'set' 'court3Team1Serving' false}}>Serving</button>
+      <span class="{{if model.court3Team1Serving "not-serving" "serving"}}">&nbsp;</span>
+    </fieldset>
+  </div>
+
+  <div style="width: 25%; float: left;">
+    <fieldset>
+      <button class="change-server" {{action 'toggle' 'court3Team1Serving'}}>Change Server</button>
     </fieldset>
   </div>
 
@@ -272,13 +290,19 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div style="width: 5%; float: left;">
     <fieldset>
-      <button {{action 'set' 'court4Team1Serving' true}}>Serving</button>
+      <span class="{{if model.court4Team1Serving "serving" "not-serving"}}">&nbsp;</span>
     </fieldset>
 
     <fieldset>
-      <button {{action 'set' 'court4Team1Serving' false}}>Serving</button>
+      <span class="{{if model.court4Team1Serving "not-serving" "serving"}}">&nbsp;</span>
+    </fieldset>
+  </div>
+
+  <div style="width: 25%; float: left;">
+    <fieldset>
+      <button class="change-server" {{action 'toggle' 'court4Team1Serving'}}>Change Server</button>
     </fieldset>
   </div>
 
@@ -340,13 +364,19 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div style="width: 5%; float: left;">
     <fieldset>
-      <button {{action 'set' 'court5Team1Serving' true}}>Serving</button>
+      <span class="{{if model.court5Team1Serving "serving" "not-serving"}}">&nbsp;</span>
     </fieldset>
 
     <fieldset>
-      <button {{action 'set' 'court5Team1Serving' false}}>Serving</button>
+      <span class="{{if model.court5Team1Serving "not-serving" "serving"}}">&nbsp;</span>
+    </fieldset>
+  </div>
+
+  <div style="width: 25%; float: left;">
+    <fieldset>
+      <button class="change-server" {{action 'toggle' 'court5Team1Serving'}}>Change Server</button>
     </fieldset>
   </div>
 
