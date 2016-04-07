@@ -113,23 +113,23 @@ small {
 }
 
 .serving {
-  border-radius: 50%;
-  width: 15px;
-  height: 15px;
-  background-color: $purple;
+  width: 20px;
+  height: 20px;
   display: inline-block;
   position: relative;
   top: 5px;
+  left: 5px;
+  background: url(/images/ball.svg) no-repeat;
 }
 
 .not-serving {
-  border-radius: 50%;
-  width: 15px;
-  height: 15px;
-  background-color: white;
+  width: 20px;
+  height: 20px;
+  background: none;
   display: inline-block;
   position: relative;
   top: 5px;
+  left: 5px;
 }
 
 .change-server {
