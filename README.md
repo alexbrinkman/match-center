@@ -44,6 +44,11 @@ Make use of the many generators for code, try `ember help generate` for more det
 aws s3 sync dist s3://www.matchcenter.com/ --acl public-read
 www.matchcenter.com.s3-website-us-west-2.amazonaws.com
 
+#### Deploying a new project instance
+* Build project with new id
+* `ember build --environment production`
+* `aws s3 sync dist s3://lowvolley-<id> --acl public-read`
+
 ## Further Reading / Useful Links
 
 * [ember.js](http://emberjs.com/)
