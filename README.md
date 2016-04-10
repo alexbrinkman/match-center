@@ -47,7 +47,7 @@ www.matchcenter.com.s3-website-us-west-2.amazonaws.com
 #### Deploying a new project instance
 * Build project with new id
 * `ember build --environment production`
-* `aws s3 sync dist s3://lowvolley-<id> --acl public-read`
+* `aws s3 sync dist s3://<bucket-name> --acl public-read`  Example: aws s3 sync dist s3://lowvolley-kerdopkcr --acl public-read
 
 ## Further Reading / Useful Links
 
