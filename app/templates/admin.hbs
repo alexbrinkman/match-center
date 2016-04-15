@@ -12,7 +12,7 @@
     </fieldset>
   </div>
 
-  <h4 class="align-left">First Singles</h4>
+  <h4 class="align-left extra-space-top">Court 1</h4>
 
   <div class="player-box">
     {{input type="text" value=model.court1Team1Name placeholder="Player 1" key-press="update" class="text-small"}}
@@ -20,7 +20,7 @@
     {{input type="text" value=model.court1Team2Name placeholder="Player 2" key-press="update" class="text-small"}}
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court1Team1Set1}}
         <button {{action 'valueUp' 'court1Team1Set1'}}>+</button>
@@ -36,7 +36,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court1Team1Set2}}
         <button {{action 'valueUp' 'court1Team1Set2'}}>+</button>
@@ -52,7 +52,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court1Team1Set3}}
         <button {{action 'valueUp' 'court1Team1Set3'}}>+</button>
@@ -78,7 +78,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 25%; float: left;">
+  <div class="update-server-group">
     <fieldset>
       <button class="change-server" {{action 'toggle' 'court1Team1Serving'}}>Change Server</button>
     </fieldset>
@@ -86,7 +86,7 @@
 
   <div class="clearFloat"></div>
 
-  <h4 class="align-left">Second Singles</h4>
+  <h4 class="align-left extra-space-top">Court 2</h4>
 
   <div class="player-box">
     {{input type="text" value=model.court2Team1Name placeholder="Player 1" key-press="update" class="text-small"}}
@@ -94,7 +94,7 @@
     {{input type="text" value=model.court2Team2Name placeholder="Player 2" key-press="update" class="text-small"}}
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court2Team1Set1}}
         <button {{action 'valueUp' 'court2Team1Set1'}}>+</button>
@@ -110,7 +110,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court2Team1Set2}}
         <button {{action 'valueUp' 'court2Team1Set2'}}>+</button>
@@ -126,7 +126,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court2Team1Set3}}
         <button {{action 'valueUp' 'court2Team1Set3'}}>+</button>
@@ -152,7 +152,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 25%; float: left;">
+  <div class="update-server-group">
     <fieldset>
       <button class="change-server" {{action 'toggle' 'court2Team1Serving'}}>Change Server</button>
     </fieldset>
@@ -160,7 +160,7 @@
 
   <div class="clearFloat"></div>
 
-  <h4 class="align-left">First Doubles</h4>
+  <h4 class="align-left extra-space-top">Court 3</h4>
 
   <div class="player-box">
     {{input type="text" value=model.court3Team1Name placeholder="Player 1" key-press="update" class="text-small"}}
@@ -168,7 +168,7 @@
     {{input type="text" value=model.court3Team2Name placeholder="Player 2" key-press="update" class="text-small"}}
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court3Team1Set1}}
         <button {{action 'valueUp' 'court3Team1Set1'}}>+</button>
@@ -184,7 +184,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court3Team1Set2}}
         <button {{action 'valueUp' 'court3Team1Set2'}}>+</button>
@@ -200,7 +200,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court3Team1Set3}}
         <button {{action 'valueUp' 'court3Team1Set3'}}>+</button>
@@ -226,7 +226,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 25%; float: left;">
+  <div class="update-server-group">
     <fieldset>
       <button class="change-server" {{action 'toggle' 'court3Team1Serving'}}>Change Server</button>
     </fieldset>
@@ -234,7 +234,7 @@
 
   <div class="clearFloat"></div>
 
-  <h4 class="align-left">Second Doubles</h4>
+  <h4 class="align-left extra-space-top">Court 4</h4>
 
   <div class="player-box">
     {{input type="text" value=model.court4Team1Name placeholder="Player 1" key-press="update" class="text-small"}}
@@ -242,7 +242,7 @@
     {{input type="text" value=model.court4Team2Name placeholder="Player 2" key-press="update" class="text-small"}}
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court4Team1Set1}}
         <button {{action 'valueUp' 'court4Team1Set1'}}>+</button>
@@ -258,7 +258,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court4Team1Set2}}
         <button {{action 'valueUp' 'court4Team1Set2'}}>+</button>
@@ -274,7 +274,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court4Team1Set3}}
         <button {{action 'valueUp' 'court4Team1Set3'}}>+</button>
@@ -300,7 +300,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 25%; float: left;">
+  <div class="update-server-group">
     <fieldset>
       <button class="change-server" {{action 'toggle' 'court4Team1Serving'}}>Change Server</button>
     </fieldset>
@@ -308,7 +308,7 @@
 
   <div class="clearFloat"></div>
 
-  <h4 class="align-left">Third Doubles</h4>
+  <h4 class="align-left extra-space-top">Court 5</h4>
 
   <div class="player-box">
     {{input type="text" value=model.court5Team1Name placeholder="Player 1" key-press="update" class="text-small"}}
@@ -316,7 +316,7 @@
     {{input type="text" value=model.court5Team2Name placeholder="Player 2" key-press="update" class="text-small"}}
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court5Team1Set1}}
         <button {{action 'valueUp' 'court5Team1Set1'}}>+</button>
@@ -332,7 +332,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court5Team1Set2}}
         <button {{action 'valueUp' 'court5Team1Set2'}}>+</button>
@@ -348,7 +348,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 15%; float: left;">
+  <div class="update-button-group">
     <fieldset>
       <label>{{model.court5Team1Set3}}
         <button {{action 'valueUp' 'court5Team1Set3'}}>+</button>
@@ -374,7 +374,7 @@
     </fieldset>
   </div>
 
-  <div style="width: 25%; float: left;">
+  <div class="update-server-group">
     <fieldset>
       <button class="change-server" {{action 'toggle' 'court5Team1Serving'}}>Change Server</button>
     </fieldset>

@@ -11,7 +11,6 @@ body {
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
-  text-align: center;
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
@@ -74,6 +73,10 @@ small {
   }
 }
 
+.box-score-title-box {
+  padding-left: 37px;
+}
+
 .box-score-title {
   display: inline-block;
   margin: 0 .5em;
@@ -112,6 +115,30 @@ small {
   text-align: left;
 }
 
+.update-button-group {
+  width: 30%;
+  float: left;
+  @media (min-width: 550px) {
+    width: 15%;
+  }
+}
+
+.update-server-group {
+  width: 100%;
+  /*text-align: center;*/
+  @media (min-width: 550px) {
+    width: 25%;
+    float: left;
+  }
+}
+
+.extra-space-top {
+  margin-top: 3em;
+  @media (min-width: 550px) {
+   margin-top: 1em;
+  }
+}
+
 .serving {
   width: 20px;
   height: 20px;
@@ -135,6 +162,11 @@ small {
 .change-server {
   position: relative;
   top: 25px;
+}
+
+.note {
+  color: $primary-text-color;
+  font-size: 14px;
 }
 
 .clearFloat {
