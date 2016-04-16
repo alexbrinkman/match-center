@@ -139,12 +139,22 @@ small {
   }
 }
 
-.serving {
+.admin-serving {
   width: 20px;
   height: 20px;
   display: inline-block;
   position: relative;
   top: 33px;
+  left: 5px;
+  background: url(/images/ball.svg) no-repeat;
+}
+
+.public-serving {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  position: relative;
+  top: 5px;
   left: 5px;
   background: url(/images/ball.svg) no-repeat;
 }
