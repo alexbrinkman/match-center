@@ -144,7 +144,7 @@ small {
   height: 20px;
   display: inline-block;
   position: relative;
-  top: 5px;
+  top: 33px;
   left: 5px;
   background: url(/images/ball.svg) no-repeat;
 }
@@ -162,6 +162,11 @@ small {
 .change-server {
   position: relative;
   top: 25px;
+}
+
+.serving-icon {
+  width: 5%;
+  float: left;
 }
 
 .note {
