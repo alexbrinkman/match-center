@@ -47,10 +47,15 @@ www.matchcenter.com.s3-website-us-west-2.amazonaws.com
 #### Deploying a new project instance
 * Build project with new id
 * `ember build --environment production`
-* `aws s3 sync dist s3://www.matchcenter.com --acl public-read`
-* `aws s3 sync dist s3://lowvolley-kerdopkcr --acl public-read`
-* `aws s3 sync dist s3://<bucket-name> --acl public-read`
-* `aws s3 sync dist s3://<bucket-name> --acl public-read`
+-KDGrD844M5xeHXJdWAa * `aws s3 sync dist s3://www.matchcenter.com --acl public-read`
+-KErDOpkcR9g_KXowGrN * `aws s3 sync dist s3://lowvolley-kerdopkcr --acl public-read`
+-KEve27zB2zQ4eRXPX62 * `aws s3 sync dist s3://lowvolley-keve27z --acl public-read`
+-KEveGbD6pJsKwyWzwYz * `aws s3 sync dist s3://lowvolley-kevegb --acl public-read`
+
+www.matchcenter.com.s3-website-us-west-2.amazonaws.com
+lowvolley-kerdopkcr.s3-website-us-west-1.amazonaws.com
+lowvolley-keve27z.s3-website-us-west-2.amazonaws.com
+lowvolley-kevegb.s3-website-us-west-2.amazonaws.com
 
 ## Further Reading / Useful Links
 
